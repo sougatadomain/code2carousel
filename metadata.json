@@ -1,0 +1,6 @@
+{
+  "name": "Code2Carousel AI",
+  "description": "Transform code snippets into beautiful LinkedIn carousels using AI. Summarize logic into punchy slides and export as PNGs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
